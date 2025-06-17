@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/zryyoung/MagiskModules/releases/download/CCleaner/CCleaner_1.0.zip",
+  "version": "1.1",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/zryyoung/MagiskModules/releases/download/CCleaner/CCleaner_1.1.zip",
   "changelog": "https://raw.githubusercontent.com/zryyoung/MagiskModules/main/changelog.md"
 }
