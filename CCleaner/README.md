@@ -55,10 +55,8 @@ log = true
 /sdcard/..ccdid
 /sdcard/.SLOGAN
 /sdcard/Documents/ringtone
-/sdcard/download/org.autojs8.autojspro
 /sdcard/download/gameresource
 /sdcard/download/update
-/sdcard/NP
 ```
 
 ---
@@ -77,8 +75,8 @@ clang++ CCleaner.cpp -o CCleaner
 ## 👨‍💻 作者信息
 
 - 作者：[@zryyoung](https://github.com/zryyoung)
-- 项目地址：https://github.com/zryyoung/MagiskModules/CCleaner  
-- 更新配置：https://github.com/zryyoung/MagiskModules/CCleaner/raw/main/CCleaner.json
+- 项目地址：https://github.com/zryyoung/MagiskModules  
+- 更新配置：https://github.com/zryyoung/MagiskModules/raw/main/CCleaner.json
 
 ---
 

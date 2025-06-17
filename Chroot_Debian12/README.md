@@ -48,7 +48,7 @@
 ## 🗂 项目地址
 
 GitHub 仓库地址：  
-🔗 [https://github.com/zryyoung/MagiskModules/Chroot_Debian12](https://github.com/zryyoung/MagiskModules/Chroot_Debian12)
+🔗 [https://github.com/zryyoung/MagiskModules](https://github.com/zryyoung/MagiskModules)
 
 ---
 
