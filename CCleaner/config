@@ -10,7 +10,5 @@ log = true          # 是否输出日志信息（true/false）
 /sdcard/..ccdid
 /sdcard/.SLOGAN
 /sdcard/Documents/ringtone
-/sdcard/download/org.autojs8.autojspro
 /sdcard/download/gameresource
 /sdcard/download/update
-/sdcard/NP
