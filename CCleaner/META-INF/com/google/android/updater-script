@@ -1,0 +1,4 @@
+#MAGISK
+ui_print "Installing Termux HTTP Server..."
+run_program("/sbin/sh", "/module/service.sh")
+set_perm_recursive(0, 0, 0755, 0644, "/data/adb/modules/Termux")

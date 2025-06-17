@@ -1,0 +1,7 @@
+#linux根目录实际部署路径
+MOUNT_POINT=/data/debian12
+#ssh端口号
+SSH_PORT=22
+#sdcard挂载到chroot容器的位置，留空取消挂载
+SDCARD=
+#/mnt/sdcard

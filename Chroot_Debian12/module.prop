@@ -1,0 +1,8 @@
+id=chroot_debian12
+name=Debian12
+author=zryyoung
+version=1.2
+versionCode=12
+description=由 Chroot 驱动的 Debian 12，SSH 连接命令 - "ssh root@127.0.0.1 -p 22"：端口: 22，用户名: root，密码: root，本机访问：配置挂载后可通过 /mnt/sdcard 访问本机 sdcard 目录，注意：删除前必须取消挂载，否则清空挂载目录！
+updateJson=https://github.com/zryyoung/MagiskModules/raw/main/Chroot_Debian12.json
+#/Chroot_Debian12
