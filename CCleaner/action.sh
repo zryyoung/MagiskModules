@@ -8,7 +8,11 @@ if [ -n "$pid" ]; then
 fi
 echo "[*] Running CCleaner ..."
 # 直接调用 service.sh
-sh "$MODDIR/service.sh" &
+"$MODDIR/service.sh" &
 
 echo "[*] ✅ Success."
+echo "[*] CCleaner1"
+echo "[*] 选择清理空文件，文件夹以及应用缓存"
+"$MODDIR/CCleaner1"
+sleep 1
 exit 0

@@ -1,8 +1,7 @@
 id=CCleaner
 name=CCleaner
-version=1.0
-versionCode=1
-author=Github@zryyoung
+version=1.1
+versionCode=11
+author=Github(zryyoung)
 description=自定义删除垃圾文件或文件夹
-updateJson=https://github.com/zryyoung/MagiskModules/raw/main/CCleaner.json
-#/CCleaner
+updateJson=https://github.com/zryyoung/CCleaner/raw/main/CCleaner.json

@@ -2,7 +2,10 @@
 loop = true         # 循环执行
 interval = 60       # 每次循环间隔，单位为秒
 log = true          # 是否输出日志信息（true/false）
-
+cache = true       # 清理应用缓存
+EmptyFilesAndFolders = true 
+                    # 清理空文件和空文件夹
+                    
 [paths]
 # 删除以下路径
 /sdcard/.duid
@@ -10,5 +13,7 @@ log = true          # 是否输出日志信息（true/false）
 /sdcard/..ccdid
 /sdcard/.SLOGAN
 /sdcard/Documents/ringtone
+/sdcard/download/org.autojs8.autojspro
 /sdcard/download/gameresource
 /sdcard/download/update
+/sdcard/NP
